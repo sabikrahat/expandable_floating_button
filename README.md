@@ -9,11 +9,9 @@
 Floating Action Button is an important widget in flutter to show extra activities from your project. But a few action button in one sigle may hassle your main app screen. In that case, we can use <b>expandable floating button<b> which may help us to make our application's ui more eye catchy. 
 </h3>
 
-<br>
 
 ### [#Official Documentation's Link](https://flutter.dev/docs/cookbook/effects/expandable-fab)
 
-<br>
 <br>
 
 ## <b>#main function<b>
